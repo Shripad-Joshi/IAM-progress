@@ -1,16 +1,17 @@
 {
   "version": "1.0",
-  "updated": "2026-06-09T19:55:37.182Z",
+  "updated": "2026-06-10T06:07:59.672Z",
   "data": {
-    "s7_item_14": "1",
+    "s7_item_2": "1",
     "s1_item_0": "0",
-    "sailpointRoadmap": "{\"tasks\":{\"Ã¢ÂÂ SailPoint Identity Security Leader Badge (FREE)\":false,\"Learn BeanShell Syntax (Java-like scripting)\":false,\"Watch InfoSecTrain SailPoint IdentityIQ Masterclass\":false},\"comments\":{}}",
+    "s6_note_0": "New: Manager, Entitlement Owner, Application Owner, Advanced, Identity/User, Role Membership, Role Composition",
     "s7_item_13": "1",
     "s7_item_15": "1",
     "s7_item_12": "1",
     "s7_item_1": "1",
+    "sailpointRoadmap": "{\"tasks\":{\"ÃÂ¢ÃÂÃÂ SailPoint Identity Security Leader Badge (FREE)\":false,\"Learn BeanShell Syntax (Java-like scripting)\":false,\"Watch InfoSecTrain SailPoint IdentityIQ Masterclass\":false},\"comments\":{}}",
     "s7_item_16": "1",
-    "s7_item_2": "1",
-    "s7_item_0": "1"
+    "s7_item_0": "1",
+    "s7_item_14": "1"
   }
 }
